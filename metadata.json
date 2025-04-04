@@ -1,0 +1,4376 @@
+[
+  {
+    "image_path": "drunk_sober_data/40mins/18_dionisis_3_r_M_18_80.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/37_vassilisA_2_r_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/28_frag_2_f_M_40_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/14_lampros_3_e_M_18_87.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/03_vasil_3_e_M_22_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/28_frag_3_e_M_40_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/15_konstantinos_4_f_M_18_70.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/23_vassiliskar_4_f_M_26_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/26_tsag_2_r_M_38_88.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/09_giorg_3_f_M_23_52_029.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/34_alkis_3_f_M_52_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/14_lampros_2_e_M_18_87.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/29_lia_2_r_F_39_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/05_artemis_2_f_F_25_59_089.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/32_vicky_3_f_F_34_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/03_vasil_3_r_M_22_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/02_giorgos_2_e_M_30_83_032.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/04_elpis_3_f_F_24_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/02_giorgos_4_f_M_30_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/15_konstantinos_2_r_M_18_70.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/21_ilias_4_f_M_27_110.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/20_nefeli_3_f_F_28_48.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/33_iliasv_1_e_M_40_100.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/38_christos_1_e_M_33_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/38_christos_4_e_M_33_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/13_manos_4_r_M_18_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/11_takis_3_r_M_20_79.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/36_krod_4_r_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/20_nefeli_2_r_F_28_48.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/33_iliasv_3_r_M_40_100.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/15_konstantinos_2_f_M_18_70.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/18_dionisis_3_f_M_18_80.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/23_vassiliskar_2_r_M_26_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/38_christos_4_r_M_33_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/33_iliasv_2_r_M_40_100.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/09_giorg_1_e_M_23_52.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "09_giorg",
+    "sex": "M",
+    "age": 23,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/39_anna_3_r_F_46_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/22_dimitris_1_f_M_28_82.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/17_kwstas_2_e_M_18_63.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/31_antonis_1_r_M_45_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/37_vassilisA_3_f_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/41_kalp_2_e_M_62_95.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/38_christos_3_r_M_33_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/17_kwstas_4_e_M_18_63.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/12_loukas_4_r_M_20_60.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/35_thanasis_3_r_M_48_81.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/41_kalp_1_f_M_62_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/15_konstantinos_2_e_M_18_70.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/26_tsag_3_r_M_38_88.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/11_takis_3_f_M_20_79.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/36_krod_2_f_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/15_konstantinos_3_f_M_18_70.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/38_christos_2_e_M_33_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/23_vassiliskar_2_e_M_26_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/22_dimitris_2_f_M_28_82.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/38_christos_2_f_M_33_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/21_ilias_1_e_M_27_110.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/25_nausika_3_r_F_27_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/02_giorgos_1_f_M_30_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/05_artemis_1_f_F_25_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/32_vicky_2_f_F_34_62.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/29_lia_4_r_F_39_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/32_vicky_3_r_F_34_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/17_kwstas_2_f_M_18_63.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/25_nausika_1_e_F_27_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/29_lia_4_e_F_39_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/10_konst_4_f_F_35_54.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/39_anna_1_r_F_46_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/05_artemis_3_r_F_25_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/25_nausika_3_f_F_27_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/36_krod_4_e_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/07_thanos_4_e_M_34_98.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/32_vicky_1_r_F_34_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/13_manos_4_f_M_18_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/38_christos_3_e_M_33_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/36_krod_1_f_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/40_spiliop_1_f_M_43_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/39_anna_4_r_F_46_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/06_tris_2_e_F_24_51_057.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/10_konst_4_r_F_35_54.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/17_kwstas_1_e_M_18_63.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/15_konstantinos_1_f_M_18_70.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/38_christos_1_r_M_33_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/40_spiliop_1_e_M_43_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/26_tsag_1_e_M_38_88.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/05_artemis_4_f_F_25_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/25_nausika_3_e_F_27_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/26_tsag_1_f_M_38_88.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/30_patty_2_r_F_37_61.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/20_nefeli_2_f_F_28_48.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/12_loukas_2_e_M_20_60.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/28_frag_4_r_M_40_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/18_dionisis_3_e_M_18_80.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/37_vassilisA_3_e_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/13_manos_3_e_M_18_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/39_anna_1_e_F_46_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/05_artemis_3_e_F_25_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/14_lampros_1_r_M_18_87.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/03_vasil_1_e_M_22_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/04_elpis_2_f_F_24_62_049.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/41_kalp_2_f_M_62_95.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/12_loukas_2_r_M_20_60.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/25_nausika_2_f_F_27_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/39_anna_4_f_F_46_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/08_tzon_4_e_M_32_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/28_frag_1_f_M_40_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/14_lampros_4_r_M_18_87.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/28_frag_3_r_M_40_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/14_lampros_4_e_M_18_87.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/11_takis_3_e_M_20_79.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/06_tris_1_e_F_24_51.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/39_anna_2_r_F_46_59.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/25_nausika_2_r_F_27_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/01_petros_1_f_M_20_71.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/25_nausika_1_r_F_27_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/34_alkis_4_r_M_52_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/04_elpis_2_r_F_24_62_049.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/32_vicky_1_f_F_34_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/35_thanasis_1_r_M_48_81.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/30_patty_1_f_F_37_61.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/24_rig_4_e_M_31_72.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/01_petros_2_r_M_20_71_033.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/05_artemis_3_f_F_25_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/17_kwstas_3_e_M_18_63.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/15_konstantinos_3_e_M_18_70.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/16_nikos_2_f_M_18_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/11_takis_4_e_M_20_79.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/29_lia_1_r_F_39_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/10_konst_1_e_F_35_54.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/01_petros_4_e_M_20_71.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/07_thanos_1_r_M_34_98.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/14_lampros_1_e_M_18_87.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/21_ilias_3_e_M_27_110.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/15_konstantinos_3_r_M_18_70.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/33_iliasv_3_e_M_40_100.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/35_thanasis_4_f_M_48_81.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/29_lia_2_e_F_39_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/23_vassiliskar_4_e_M_26_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/33_iliasv_2_f_M_40_100.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/25_nausika_1_f_F_27_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/13_manos_2_r_M_18_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/02_giorgos_3_e_M_30_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/19_pasxalis_3_f_M_39_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/34_alkis_2_r_M_52_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/07_thanos_2_f_M_34_98_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/06_tris_3_f_F_24_51.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/01_petros_4_f_M_20_71.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/01_petros_3_f_M_20_71_032.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/13_manos_2_e_M_18_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/37_vassilisA_1_e_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/27_theox_1_r_M_39_85.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/37_vassilisA_1_r_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/27_theox_3_r_M_39_85.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/41_kalp_3_r_M_62_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/04_elpis_3_e_F_24_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/36_krod_3_r_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/32_vicky_4_r_F_34_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/13_manos_1_r_M_18_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/09_giorg_2_r_M_23_52_035.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/26_tsag_2_f_M_38_88.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/06_tris_4_f_F_24_51.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/30_patty_4_f_F_37_61.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/30_patty_3_r_F_37_61.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/19_pasxalis_4_r_M_39_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/10_konst_3_r_F_35_54_055.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/19_pasxalis_3_r_M_39_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/21_ilias_2_r_M_27_110.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/29_lia_3_f_F_39_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/30_patty_4_r_F_37_61.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/07_thanos_1_f_M_34_98.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/39_anna_3_e_F_46_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/32_vicky_2_e_F_34_62.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/21_ilias_3_f_M_27_110.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/11_takis_1_e_M_20_79.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/41_kalp_3_f_M_62_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/39_anna_1_f_F_46_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/20_nefeli_1_e_F_28_48.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/11_takis_2_e_M_20_79.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/40_spiliop_4_e_M_43_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/17_kwstas_4_f_M_18_63.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/41_kalp_3_e_M_62_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/12_loukas_3_e_M_20_60.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/23_vassiliskar_3_e_M_26_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/41_kalp_2_r_M_62_95.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/07_thanos_3_f_M_34_98_020.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/05_artemis_1_r_F_25_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/09_giorg_3_r_M_23_52_029.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/30_patty_2_f_F_37_61.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/04_elpis_2_e_F_24_62_049.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/27_theox_4_e_M_39_85.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/37_vassilisA_4_r_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/12_loukas_1_f_M_20_60.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/21_ilias_1_r_M_27_110.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/06_tris_2_r_F_24_51_057.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/40_spiliop_4_r_M_43_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/26_tsag_1_r_M_38_88.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/40_spiliop_3_f_M_43_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/34_alkis_3_r_M_52_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/10_konst_1_r_F_35_54.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/19_pasxalis_3_e_M_39_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/36_krod_1_r_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/34_alkis_4_f_M_52_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/27_theox_4_r_M_39_85.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/03_vasil_4_r_M_22_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/35_thanasis_1_f_M_48_81.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/19_pasxalis_2_r_M_39_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/23_vassiliskar_3_f_M_26_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/17_kwstas_1_r_M_18_63.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/22_dimitris_2_e_M_28_82.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/31_antonis_4_e_M_45_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/41_kalp_4_e_M_62_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/02_giorgos_2_r_M_30_83_032.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/23_vassiliskar_1_e_M_26_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/20_nefeli_2_e_F_28_48.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/24_rig_4_r_M_31_72.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/28_frag_1_r_M_40_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/34_alkis_2_e_M_52_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/10_konst_3_f_F_35_54_055.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/16_nikos_2_r_M_18_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/14_lampros_2_f_M_18_87.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/21_ilias_2_f_M_27_110.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/40_spiliop_1_r_M_43_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/24_rig_3_r_M_31_72.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/16_nikos_3_e_M_18_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/27_theox_1_f_M_39_85.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/22_dimitris_1_r_M_28_82.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/23_vassiliskar_2_f_M_26_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/24_rig_3_f_M_31_72.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/35_thanasis_4_r_M_48_81.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/02_giorgos_4_r_M_30_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/26_tsag_3_e_M_38_88.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/15_konstantinos_1_r_M_18_70.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/01_petros_3_r_M_20_71_032.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/18_dionisis_1_e_M_18_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/31_antonis_2_e_M_45_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/01_petros_2_e_M_20_71_033.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/13_manos_2_f_M_18_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/35_thanasis_4_e_M_48_81.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/12_loukas_1_r_M_20_60.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/06_tris_2_f_F_24_51_057.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/33_iliasv_2_e_M_40_100.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/36_krod_3_e_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/37_vassilisA_1_f_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/37_vassilisA_4_e_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/24_rig_2_f_M_31_72.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/23_vassiliskar_1_r_M_26_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/18_dionisis_4_r_M_18_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/08_tzon_2_r_M_32_80_037.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/32_vicky_3_e_F_34_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/17_kwstas_3_r_M_18_63.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/31_antonis_1_f_M_45_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/38_christos_1_f_M_33_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/19_pasxalis_2_f_M_39_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/34_alkis_1_f_M_52_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/04_elpis_4_r_F_24_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/21_ilias_3_r_M_27_110.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/26_tsag_2_e_M_38_88.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/19_pasxalis_4_f_M_39_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/35_thanasis_3_e_M_48_81.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/30_patty_3_e_F_37_61.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/37_vassilisA_2_f_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/22_dimitris_4_r_M_28_82.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/33_iliasv_1_f_M_40_100.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/17_kwstas_4_r_M_18_63.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/34_alkis_4_e_M_52_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/22_dimitris_3_r_M_28_82.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/24_rig_1_r_M_31_72.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/29_lia_4_f_F_39_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/38_christos_4_f_M_33_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/13_manos_1_e_M_18_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/05_artemis_2_e_F_25_59_089.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/17_kwstas_2_r_M_18_63.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/03_vasil_3_f_M_22_95.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/01_petros_1_r_M_20_71.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/14_lampros_1_f_M_18_87.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/09_giorg_3_e_M_23_52_029.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/07_thanos_3_r_M_34_98_020.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/07_thanos_2_r_M_34_98_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/18_dionisis_4_e_M_18_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/18_dionisis_2_r_M_18_80.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/12_loukas_3_r_M_20_60.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/22_dimitris_3_f_M_28_82.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/28_frag_4_e_M_40_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/03_vasil_1_r_M_22_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/25_nausika_4_e_F_27_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/40_spiliop_2_e_M_43_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/16_nikos_3_f_M_18_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/38_christos_2_r_M_33_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/19_pasxalis_1_f_M_39_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/10_konst_4_e_F_35_54.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/07_thanos_1_e_M_34_98.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/25_nausika_2_e_F_27_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/29_lia_3_r_F_39_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/16_nikos_1_r_M_18_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/26_tsag_4_r_M_38_88.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/06_tris_1_r_F_24_51.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/09_giorg_4_r_M_23_52.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "09_giorg",
+    "sex": "M",
+    "age": 23,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/22_dimitris_1_e_M_28_82.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/36_krod_1_e_M_54_90.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/14_lampros_2_r_M_18_87.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/08_tzon_2_e_M_32_80_037.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/18_dionisis_2_e_M_18_80.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/16_nikos_2_e_M_18_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/20_nefeli_1_r_F_28_48.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/30_patty_2_e_F_37_61.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/05_artemis_4_r_F_25_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/33_iliasv_4_r_M_40_100.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/41_kalp_4_r_M_62_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/35_thanasis_2_f_M_48_81.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/18_dionisis_1_r_M_18_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/27_theox_1_e_M_39_85.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/27_theox_3_e_M_39_85.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/05_artemis_4_e_F_25_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/41_kalp_4_f_M_62_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/17_kwstas_3_f_M_18_63.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/10_konst_2_f_F_35_54_060.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/29_lia_2_f_F_39_65.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/36_krod_3_f_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/16_nikos_1_e_M_18_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/08_tzon_4_r_M_32_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/11_takis_1_f_M_20_79.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/09_giorg_4_f_M_23_52.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "09_giorg",
+    "sex": "M",
+    "age": 23,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/09_giorg_4_e_M_23_52.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "09_giorg",
+    "sex": "M",
+    "age": 23,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/05_artemis_2_r_F_25_59_089.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/07_thanos_3_e_M_34_98_020.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/04_elpis_4_f_F_24_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/12_loukas_2_f_M_20_60.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/32_vicky_2_r_F_34_62.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/31_antonis_3_f_M_45_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/24_rig_2_e_M_31_72.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/04_elpis_1_r_F_24_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/06_tris_4_e_F_24_51.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/08_tzon_2_f_M_32_80_037.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/28_frag_2_e_M_40_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/31_antonis_4_r_M_45_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/30_patty_1_e_F_37_61.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/34_alkis_2_f_M_52_78.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/07_thanos_2_e_M_34_98_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/06_tris_1_f_F_24_51.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/33_iliasv_4_e_M_40_100.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/34_alkis_3_e_M_52_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/33_iliasv_3_f_M_40_100.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/04_elpis_3_r_F_24_62.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/31_antonis_3_e_M_45_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/31_antonis_1_e_M_45_76.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/14_lampros_4_f_M_18_87.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/03_vasil_1_f_M_22_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/27_theox_4_f_M_39_85.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/36_krod_2_r_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/34_alkis_1_e_M_52_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/02_giorgos_3_r_M_30_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/10_konst_3_e_F_35_54_055.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/40_spiliop_3_e_M_43_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/06_tris_4_r_F_24_51.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/26_tsag_3_f_M_38_88.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/26_tsag_4_e_M_38_88.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/11_takis_4_r_M_20_79.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/11_takis_2_r_M_20_79.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/15_konstantinos_4_e_M_18_70.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/21_ilias_4_e_M_27_110.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/41_kalp_1_r_M_62_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/34_alkis_1_r_M_52_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "34_alkis",
+    "sex": "M",
+    "age": 52,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/29_lia_1_f_F_39_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/39_anna_2_e_F_46_59.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/32_vicky_4_f_F_34_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/02_giorgos_1_r_M_30_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/39_anna_4_e_F_46_59.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/15_konstantinos_4_r_M_18_70.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/32_vicky_1_e_F_34_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/27_theox_2_r_M_39_85.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/07_thanos_4_f_M_34_98.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/37_vassilisA_2_e_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/12_loukas_4_f_M_20_60.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/23_vassiliskar_1_f_M_26_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/39_anna_2_f_F_46_59.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/12_loukas_4_e_M_20_60.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/16_nikos_1_f_M_18_74.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/22_dimitris_3_e_M_28_82.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/03_vasil_2_r_M_22_95_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/31_antonis_2_r_M_45_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/31_antonis_3_r_M_45_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/35_thanasis_2_e_M_48_81.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/30_patty_4_e_F_37_61.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/12_loukas_1_e_M_20_60.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/15_konstantinos_1_e_M_18_70.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "15_konstantinos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/21_ilias_1_f_M_27_110.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/35_thanasis_3_f_M_48_81.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/37_vassilisA_3_r_M_54_90.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/37_vassilisA_4_f_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "37_vassilisA",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/27_theox_3_f_M_39_85.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/03_vasil_2_e_M_22_95_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/11_takis_1_r_M_20_79.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/08_tzon_3_f_M_32_80_028.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/13_manos_3_f_M_18_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/08_tzon_1_r_M_32_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/04_elpis_4_e_F_24_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/18_dionisis_4_f_M_18_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/40_spiliop_3_r_M_43_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/24_rig_1_e_M_31_72.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/11_takis_4_f_M_20_79.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/10_konst_1_f_F_35_54.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "10_konst",
+    "sex": "F",
+    "age": 35,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/22_dimitris_2_r_M_28_82.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/40_spiliop_2_f_M_43_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/06_tris_3_r_F_24_51.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/24_rig_4_f_M_31_72.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/28_frag_2_r_M_40_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/09_giorg_1_r_M_23_52.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "09_giorg",
+    "sex": "M",
+    "age": 23,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/16_nikos_4_r_M_18_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/27_theox_2_e_M_39_85.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/01_petros_2_f_M_20_71_033.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/04_elpis_1_e_F_24_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/09_giorg_2_f_M_23_52_035.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/14_lampros_3_r_M_18_87.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/01_petros_1_e_M_20_71.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/06_tris_3_e_F_24_51.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "06_tris",
+    "sex": "F",
+    "age": 24,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/07_thanos_4_r_M_34_98.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "07_thanos",
+    "sex": "M",
+    "age": 34,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/31_antonis_2_f_M_45_76.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/09_giorg_2_e_M_23_52_035.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/32_vicky_4_e_F_34_62.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "32_vicky",
+    "sex": "F",
+    "age": 34,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/01_petros_4_r_M_20_71.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "01_petros",
+    "sex": "M",
+    "age": 20,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/29_lia_1_e_F_39_65.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/21_ilias_4_r_M_27_110.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/36_krod_2_e_M_54_90.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/19_pasxalis_1_e_M_39_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/13_manos_3_r_M_18_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/40_spiliop_2_r_M_43_74.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/03_vasil_4_f_M_22_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/16_nikos_4_e_M_18_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/23_vassiliskar_3_r_M_26_78.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/19_pasxalis_4_e_M_39_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/26_tsag_4_f_M_38_88.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "26_tsag",
+    "sex": "M",
+    "age": 38,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/18_dionisis_1_f_M_18_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/03_vasil_4_e_M_22_95.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "03_vasil",
+    "sex": "M",
+    "age": 22,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/13_manos_1_f_M_18_78.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/02_giorgos_1_e_M_30_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/28_frag_3_f_M_40_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/08_tzon_1_f_M_32_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/16_nikos_3_r_M_18_74.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/35_thanasis_2_r_M_48_81.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/33_iliasv_1_r_M_40_100.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/20_nefeli_1_f_F_28_48.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "20_nefeli",
+    "sex": "F",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/18_dionisis_2_f_M_18_80.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "18_dionisis",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/10_konst_2_r_F_35_54_060.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/08_tzon_3_r_M_32_80_028.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/05_artemis_1_e_F_25_59.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "05_artemis",
+    "sex": "F",
+    "age": 25,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/16_nikos_4_f_M_18_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "16_nikos",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/14_lampros_3_f_M_18_87.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "14_lampros",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/08_tzon_1_e_M_32_80.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/02_giorgos_3_f_M_30_83.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/39_anna_3_f_F_46_59.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "39_anna",
+    "sex": "F",
+    "age": 46,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/12_loukas_3_f_M_20_60.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "12_loukas",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/28_frag_4_f_M_40_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/03_vasil_2_f_M_22_95_022.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/24_rig_1_f_M_31_72.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/35_thanasis_1_e_M_48_81.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "35_thanasis",
+    "sex": "M",
+    "age": 48,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/19_pasxalis_1_r_M_39_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/02_giorgos_2_f_M_30_83_032.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/28_frag_1_e_M_40_83.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "28_frag",
+    "sex": "M",
+    "age": 40,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/40_spiliop_4_f_M_43_74.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "40_spiliop",
+    "sex": "M",
+    "age": 43,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/29_lia_3_e_F_39_65.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "29_lia",
+    "sex": "F",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/36_krod_4_f_M_54_90.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "36_krod",
+    "sex": "M",
+    "age": 54,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/21_ilias_2_e_M_27_110.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "21_ilias",
+    "sex": "M",
+    "age": 27,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/27_theox_2_f_M_39_85.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "27_theox",
+    "sex": "M",
+    "age": 39,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/13_manos_4_e_M_18_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "13_manos",
+    "sex": "M",
+    "age": 18,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/08_tzon_3_e_M_32_80_028.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/22_dimitris_4_f_M_28_82.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/30_patty_3_f_F_37_61.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/08_tzon_4_f_M_32_80.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "08_tzon",
+    "sex": "M",
+    "age": 32,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/22_dimitris_4_e_M_28_82.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "22_dimitris",
+    "sex": "M",
+    "age": 28,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/25_nausika_4_f_F_27_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/38_christos_3_f_M_33_76.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "38_christos",
+    "sex": "M",
+    "age": 33,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/31_antonis_4_f_M_45_76.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "31_antonis",
+    "sex": "M",
+    "age": 45,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/25_nausika_4_r_F_27_65.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "25_nausika",
+    "sex": "F",
+    "age": 27,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/33_iliasv_4_f_M_40_100.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "33_iliasv",
+    "sex": "M",
+    "age": 40,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/10_konst_2_e_F_35_54_060.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/24_rig_3_e_M_31_72.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/04_elpis_1_f_F_24_62.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "04_elpis",
+    "sex": "F",
+    "age": 24,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/23_vassiliskar_4_r_M_26_78.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "23_vassiliskar",
+    "sex": "M",
+    "age": 26,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/30_patty_1_r_F_37_61.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "30_patty",
+    "sex": "F",
+    "age": 37,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/19_pasxalis_2_e_M_39_83.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "19_pasxalis",
+    "sex": "M",
+    "age": 39,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/60mins/02_giorgos_4_e_M_30_83.jpg",
+    "label": 1,
+    "time": "60mins",
+    "subject_id": "02_giorgos",
+    "sex": "M",
+    "age": 30,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/24_rig_2_r_M_31_72.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "24_rig",
+    "sex": "M",
+    "age": 31,
+    "angle": "right"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/41_kalp_1_e_M_62_95.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "41_kalp",
+    "sex": "M",
+    "age": 62,
+    "angle": "eyes"
+  },
+  {
+    "image_path": "drunk_sober_data/40mins/01_petros_3_e_M_20_71_032.jpg",
+    "label": 1,
+    "time": "40mins",
+    "subject_id": "unknown",
+    "sex": "unknown",
+    "age": -1,
+    "angle": "unknown"
+  },
+  {
+    "image_path": "drunk_sober_data/sober/17_kwstas_1_f_M_18_63.jpg",
+    "label": 0,
+    "time": "sober",
+    "subject_id": "17_kwstas",
+    "sex": "M",
+    "age": 18,
+    "angle": "front"
+  },
+  {
+    "image_path": "drunk_sober_data/20mins/11_takis_2_f_M_20_79.jpg",
+    "label": 1,
+    "time": "20mins",
+    "subject_id": "11_takis",
+    "sex": "M",
+    "age": 20,
+    "angle": "front"
+  }
+]
